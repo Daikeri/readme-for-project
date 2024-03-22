@@ -34,9 +34,10 @@
 
 Создание пользовательского аккаунта осуществляется с привязкой номера телефона. На указанный номер приходи код подтверждения.
 
-![image](https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign1.jpg)
-
-![image](https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign2.jpg)
+<div style="display: flex;">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign1.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign2.jpg" alt="Описание изображения" width="500" height="1000">
+</div>
 
 ### Конфигуратора питомца
 
@@ -73,7 +74,6 @@
   <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/Casino1.jpg" alt="Описание изображения" width="500" height="1000">
   <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/Casino2.jpg" alt="Описание изображения" width="500" height="1000">
 </div>
-
 
 ## Life
 <div style="display: flex;">
