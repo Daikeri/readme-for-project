@@ -18,15 +18,15 @@
 
 # Содержание
 
-  - [Элементы GUI](Элементы-GUI)
-      - [Авторизация](Авторизация)
-      - [Конфигуратор питомца](Конфигуратора-питомца)
-      - [Приобретение новых питомцев](Приобретение-новых-питомцев)
-      - [Кормление питомца](Кормление-питомца)
+  - [Элементы GUI](элементы-gui)
+      - [Авторизация](авторизация)
+      - [Конфигуратор питомца](конфигуратора-питомца)
+      - [Приобретение новых питомцев](приобретение-новых-питомцев)
+      - [Кормление питомца](кормление-питомца)
   - [Мини-игры]()
-      - [Flappy Bird](Flappy-Bird)
-      - [Casino](Casino)
-      - [Life](Life)
+      - [Flappy Bird](flappy-Bird)
+      - [Casino](casino)
+      - [Life](life)
      
 # Элементы GUI
 
@@ -34,45 +34,52 @@
 
 Создание пользовательского аккаунта осуществляется с привязкой номера телефона. На указанный номер приходи код подтверждения.
 
-![image](https://github.com/Daikeri/L-systems/blob/main/picture/sign1.jpg)
+![image](https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign1.jpg)
 
-![image](https://github.com/Daikeri/L-systems/blob/main/picture/sign2.jpg)
+![image](https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/sign2.jpg)
 
 ### Конфигуратора питомца
 
 Пользователю предоставляется возможность задать кличку для своего питомца, указать желаемый пол и возраст.
 
-<img src="https://github.com/Daikeri/L-systems/blob/main/picture/create-pet.jpg" alt="Описание изображения" width="480" height="1000">
+<img src="https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/create-pet.jpg" alt="Описание изображения" width="480" height="1000">
 
 ### Приобретение новых питомцев
 
 По мере накопления внутриигровой валюты, пользователю предоставляется возможность для покупки новых питомцев.
 
-<img src="https://github.com/Daikeri/L-systems/blob/main/picture/buy-pet.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/buy-pet.jpg" alt="Описание изображения" width="500" height="1000">
 
 ### Кормление питомца
 
 В качестве элемента интерактивности, предусмотрена возможность кормления питомца. В зависимости от вида лакомства, варьируется количество получаемых питомцем HP.
 
-<img src="https://github.com/Daikeri/L-systems/blob/main/picture/eat-pet.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="https://github.com/Daikeri/readme-for-project/blob/main/client/gui-image/eat-pet.jpg" alt="Описание изображения" width="500" height="1000">
 
 # Минигры
 
 Для дополнительного опыта взаимодействия, было предусмотрено наличие ряда миниигр.
 
-### Flappy Bird
+## Flappy Bird
 
-<img src="" alt="Описание изображения" width="500" height="1000">
-<img src="" alt="Описание изображения" width="500" height="1000">
+<div style="display: flex;">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/bird1.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/bird2.jpg" alt="Описание изображения" width="500" height="1000">
+</div>
 
-### Casino
+## Casino
 
-<img src="" alt="Описание изображения" width="500" height="1000">
-<img src="" alt="Описание изображения" width="500" height="1000">
+<div style="display: flex;">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/Casino1.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/Casino2.jpg" alt="Описание изображения" width="500" height="1000">
+</div>
 
-### Life
 
-<img src="" alt="Описание изображения" width="500" height="1000">
-<img src="" alt="Описание изображения" width="500" height="1000">
-<img src="" alt="Описание изображения" width="500" height="1000">
-<img src="" alt="Описание изображения" width="500" height="1000">
+## Life
+<div style="display: flex;">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/life1.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/life2.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/life3.jpg" alt="Описание изображения" width="500" height="1000">
+  <img src="https://github.com/Daikeri/readme-for-project/blob/main/client/mini-game-image/life4.jpg" alt="Описание изображения" width="500" height="1000">
+</div>
+
