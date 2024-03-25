@@ -23,19 +23,21 @@
       - [Список пользователей](#список-пользователей)
       - [Просмотр пользователя](#просмотр-пользователя)
       - [Добавление пользователя](#добавление-пользователя)
+   
+# Элементы GUI
 
 ### Авторизация
 
-<img src="image/auth.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="image/auth.jpg" alt="Описание изображения" width="1100" height="600">
 
 ### Список пользователей
 
-<img src="image/user-list.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="image/user-list.jpg" alt="Описание изображения" width="1100" height="600">
 
 ### Просмотр пользователя
 
-<img src="image/user-check.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="image/user-check.jpg" alt="Описание изображения" width="1100" height="600">
 
 ### Добавление пользователя
 
-<img src="image/add-user.jpg" alt="Описание изображения" width="500" height="1000">
+<img src="image/add-user.jpg" alt="Описание изображения" width="1100" height="600">
