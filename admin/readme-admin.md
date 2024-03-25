@@ -14,6 +14,8 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg' width="50" height="50">
 </div>
 
+
+
 # Содержание
 
   - [Элементы GUI](#элементы-gui)
